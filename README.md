@@ -1,6 +1,6 @@
 # R-programming-week3
 
-Assignment: Caching the Inverse of a Matrix更少 
+Assignment: Caching the Inverse of a Matrix 
 Matrix inversion is usually a costly computation and there may be some benefit to caching the inverse of a matrix rather than compute it repeatedly (there are also alternatives to matrix inversion that we will not discuss here). Your assignment is to write a pair of functions that cache the inverse of a matrix.
 
 Write the following functions:
@@ -26,5 +26,5 @@ You will see a list of commits that you have made to this repository. The most r
 A valid submission will look something like (this is just an example!)
 
 https://github.com/rdpeng/ProgrammingAssignment2
-Grading更少 
+Grading 
 This assignment will be graded via peer assessment. During the evaluation phase, you must evaluate and grade the submissions of at least 4 of your classmates. If you do not complete at least 4 evaluations, your own assignment grade will be reduced by 20%.
